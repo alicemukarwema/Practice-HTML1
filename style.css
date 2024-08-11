@@ -14,8 +14,11 @@
     color: darkblue;
     font-size:20px;
     text-align:center;
+}
 
-
+#rtf {
+    color: blue;
+    font-size: 20px;
 }
 
 #ab {
